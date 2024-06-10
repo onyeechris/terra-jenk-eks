@@ -29,8 +29,8 @@ sudo apt install git -y
 
 #install terraform
 sudo apt-get install unzip
-sudo wget https://releases.hashicorp.com/terraform/1.0.7/terraform_1.0.7_linux_amd64.zip
-sudo unzip terraform_1.0.7_linux_amd64.zip
+sudo wget https://releases.hashicorp.com/terraform/1.8.5/terraform_1.8.5_linux_amd64.zip
+sudo unzip terraform_1.8.5_linux_amd64.zip
 sudo mv terraform /usr/local/bin/
 
 #install kubectl
